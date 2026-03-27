@@ -19,8 +19,8 @@ I am actively seeking opportunities to contribute to real-world projects, collab
 ## 🎯 Current Focus
 
 - 🎓 **University:** GLA University  
-- 💻 **Core Areas:** Web Development, DevOps, Cloud Engineering  
-- ⚙️ **Interests:** System Design, Automation, Scalable Architecture  
+- 💻 **Core Areas:** DevOps, Cloud Engineering, Web Development  
+- ⚙️ **Interests:** Automation, Scalable Architecture 
 - 🤝 **Open To:** Internships, Collaborations, Open-Source Contributions  
 
 ---
