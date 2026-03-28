@@ -1,7 +1,7 @@
 <h1 align="center">Shikhar Singh Negi</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Web+Developer;DevOps+Engineer;Cloud+%26+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Web+Developer;Cloud+%26+Automation+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
