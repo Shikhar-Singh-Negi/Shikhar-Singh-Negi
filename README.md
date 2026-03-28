@@ -8,7 +8,7 @@
 
 ## 🚀 Professional Summary
 
-I am a **Web Developer and DevOps Engineer** with a strong foundation in modern web technologies, cloud computing, and automation. I specialize in building responsive, scalable applications and deploying them using industry-standard DevOps practices.
+I am a **DevOps Engineer and Web Developer** with a strong foundation in modern web technologies, cloud computing, and automation. I specialize in building responsive, scalable applications and deploying them using industry-standard DevOps practices.
 
 My interests include designing efficient system architectures, implementing CI/CD pipelines, containerization, and managing cloud infrastructure. I enjoy solving complex technical problems and continuously learning new tools to improve development and deployment workflows.
 
